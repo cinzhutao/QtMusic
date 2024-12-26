@@ -1,0 +1,2 @@
+# QtMusic
+一个基于QMediaPlayList和QMediaPlayer设计的音乐播放器
